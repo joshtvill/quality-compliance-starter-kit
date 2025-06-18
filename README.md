@@ -29,8 +29,6 @@ This kit is ideal for teams that need to:
 /diagrams/         → Optional visual system maps
 ```
 
-> Internal planning and project tracking files (e.g. `context_primer.md`, `project_tracker.md`) are excluded from this public repo via `.gitignore`.
-
 ---
 
 ## Components
