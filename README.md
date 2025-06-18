@@ -1,3 +1,4 @@
+
 # Quality Compliance Starter Kit
 
 This repository provides a modular, system-oriented toolkit for standing up or evaluating compliance-aligned quality operations in regulated or production manufacturing environments. It is designed for use by engineering, MSAT, QA-adjacent, and systems integration teams working in:
@@ -8,7 +9,7 @@ This repository provides a modular, system-oriented toolkit for standing up or e
 
 ---
 
-## 🧭 Use Case
+## Use Case
 
 This kit is ideal for teams that need to:
 
@@ -19,7 +20,7 @@ This kit is ideal for teams that need to:
 
 ---
 
-## 🔧 Folder Structure
+## Folder Structure
 
 ```
 /templates/        → SOPs, quality manuals, audit logs
@@ -32,7 +33,7 @@ This kit is ideal for teams that need to:
 
 ---
 
-## 🧱 Components
+## Components
 
 | Folder      | Description |
 |-------------|-------------|
@@ -43,7 +44,7 @@ This kit is ideal for teams that need to:
 
 ---
 
-## 🧩 How to Use
+## How to Use
 
 This kit is meant to be cloned, forked, or copied into an internal tooling repo. From there, teams can:
 
@@ -54,7 +55,7 @@ This kit is meant to be cloned, forked, or copied into an internal tooling repo.
 
 ---
 
-## 🚦 Disclaimers
+## Disclaimers
 
 - This kit is not a legal or regulatory authority
 - Final system responsibility lies with designated QA or RA professionals
@@ -62,7 +63,7 @@ This kit is meant to be cloned, forked, or copied into an internal tooling repo.
 
 ---
 
-## 🔁 Roadmap
+## Roadmap
 
 Planned additions include:
 
@@ -73,6 +74,6 @@ Planned additions include:
 
 ---
 
-## 📎 License
+## License
 
 This repository is provided as-is under the MIT License. Teams are encouraged to copy, adapt, and build upon these files for internal use.
