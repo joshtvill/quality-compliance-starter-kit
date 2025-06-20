@@ -1,7 +1,7 @@
 
 # Quality Compliance Starter Kit
 
-This repository provides a modular, system-oriented toolkit for standing up or evaluating compliance-aligned quality operations in regulated or production manufacturing environments. It is designed for use by engineering, MSAT, QA-adjacent, and systems integration teams working in:
+This repository provides a modular, system-oriented toolkit for starting up or evaluating compliance-aligned quality operations in regulated or production manufacturing environments. It is designed for use by engineering, MSAT, QA-adjacent, and systems integration teams working in:
 
 - Biotech or pharmaceutical manufacturing (GMP, cGMP)
 - Semiconductor or hardware operations (ISO 9001, IATF-like systems)
@@ -20,25 +20,14 @@ This kit is ideal for teams that need to:
 
 ---
 
-## Folder Structure
-
-```
-/templates/        → SOPs, quality manuals, audit logs
-/trackers/         → Timelines, checklists, change logs
-/reference/        → Regulatory mapping, glossary, source material
-/diagrams/         → Optional visual system maps
-```
-
----
-
-## Components
+## Folder Structure & Components
 
 | Folder      | Description |
 |-------------|-------------|
-| `/templates/` | Reusable operational documents (SOPs, audit logs, manual outline) |
+| `/templates/` | Reusable operational documents (SOPs, audit logs, quality manuals) |
 | `/trackers/`  | Editable tools for change control, audits, and rollout planning |
-| `/reference/` | Regulatory crosswalks for ISO 9001, 21 CFR, ICH Q10 |
-| `/diagrams/`  | (Optional) Visual maps of QMS system elements |
+| `/reference/` | Regulatory mapping, glossary, and source material |
+| `/diagrams/`  | Visual maps of QMS system elements |
 
 ---
 
@@ -65,8 +54,8 @@ This kit is meant to be cloned, forked, or copied into an internal tooling repo.
 
 Planned additions include:
 
-- GMP-focused extension modules
-- Semiconductor ISO audit checklist refinements
+- Extension modules
+- Audit checklist refinements
 - Training matrix templates
 - Configurable system scope planner
 
