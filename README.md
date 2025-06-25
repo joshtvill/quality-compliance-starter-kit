@@ -41,7 +41,7 @@ This kit supports organizations that need to:
 | sop_template_v1_20250621.docx                       | `/templates/` | Document Control, Change Management                           |
 | training_matrix_v1_20250623.xlsx                    | `/trackers/`  | Training & Qualification                                      |
 | change_tracker_v1_20250623.xlsx                     | `/trackers/`  | Change Management, CAPA                                       |
-| implementation_timeline_v1_20250623.xlsx            | `/trackers/`  | Operational Planning, Cross-functional Coordination           |
+| project_tracker_gantt_v1_20250623.xlsx            | `/trackers/`  | Operational Planning, Cross-functional Coordination           |
 | asset_ownership_table_v1_20250623.xlsx              | `/trackers/`  | Management Responsibility, Function Accountability            |
 | compliance_clause_breakdown_table_v1_20250621.xlsx  | `/reference/` | All QMS Themes (Filterable clause list)                       |
 | cross-framework_mapping_matrix_v1_20250621.xlsx     | `/reference/` | All QMS Themes (Framework comparison table)                   |
